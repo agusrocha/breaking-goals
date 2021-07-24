@@ -30,6 +30,8 @@ a {
     background-color: #FF6833;
     font-size: 16px;
     font-weight: bold;
+    position: sticky;
+    top: 0;
 }
 .navMenu ul {
     height: auto;

@@ -205,6 +205,11 @@ ul li .active {
     margin: 8px;
     font-style: italic;
 }
+.ubicacion {
+    display: flex;
+    flex-direction: column;
+    
+}
 /*//////////SECCIONES//////////*/
 /*NOSOTROS*/
 .nosotros {

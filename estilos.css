@@ -23,6 +23,7 @@ a {
 }
 .headerLogo img {
     width: 110px;
+    height: auto;
     margin-top: 20px;
 }
  /*MENU*/
@@ -161,7 +162,7 @@ ul li .active {
     letter-spacing: 2px;
 }
 .cuidadosColor {
-    color: coral;
+    color: rgb(253, 94, 37);
     font-weight: bolder;
 }
 .cuidadosNegrita {
@@ -272,7 +273,7 @@ ul li .active {
 }
 .videoContainer {
     width: 90%;
-    height: 350px; /* VER */
+    height: 350px;
 }
 /*PLANES*/
 .planes {

@@ -200,7 +200,12 @@ ul li .active {
     background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
     margin-top: 18px;
 }
-.footer p {
+.gimnasio {
+    display: flex;
+    align-items: center;
+    width: 30%;
+}
+.gimnasio p {    
     color: white;
     font-size: 14px;
     margin: 8px;
@@ -210,6 +215,13 @@ ul li .active {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 70%;
+}
+.ubicacion p {
+    color: white;
+    font-size: 14px;
+    margin: 8px;
+    font-style: italic;
 }
 /*//////////SECCIONES//////////*/
 /*NOSOTROS*/

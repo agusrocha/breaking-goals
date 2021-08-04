@@ -203,6 +203,7 @@ ul li .active {
 .gimnasio {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
     width: 30%;
 }
 .gimnasio p {    

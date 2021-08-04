@@ -41,7 +41,7 @@ a {
     align-items: center;
 }
 .navMenu ul li {
-    margin: 5px;
+    margin: 10px;
 }
 ul li .active {
     color: yellow;
@@ -67,6 +67,7 @@ ul li .active {
     font-size: 18px;
     text-transform: uppercase;
     letter-spacing: 12px;
+    margin-bottom: 15px;
 }
 .sectionDiv p {
     color: yellow;
@@ -137,7 +138,7 @@ ul li .active {
 }
 /*CUIDADOS*/
 .cuidadosPrincipal{ 
-    margin-top: 16px;
+    margin-top: 25px;
 }
 .divCuidados {
     text-align: center;
@@ -201,14 +202,14 @@ ul li .active {
 }
 .footer p {
     color: white;
-    font-size: 20px;
+    font-size: 14px;
     margin: 8px;
     font-style: italic;
 }
 .ubicacion {
     display: flex;
     flex-direction: column;
-    
+    align-items: center;
 }
 /*//////////SECCIONES//////////*/
 /*NOSOTROS*/

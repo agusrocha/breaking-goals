@@ -460,6 +460,12 @@ ul li .active {
     .grilla tr {
         font-size: 16px;
     } 
+    .gimnasio p {
+        font-size: 22px;
+    }
+    .ubicacion p {
+        font-size: 18px;
+    }
     /*////////SECCIONES////////*/   
     /*NOSOTROS*/
     .nosotros article h1 {
@@ -612,9 +618,15 @@ ul li .active {
     .footer {
         margin-top: 60px;
     }
-    .footer p {
+    .gimansio {
+        justify-content: center;
+    }
+    .gimansio p {
         font-size: 24px;
         margin: 12px;
+    }
+    .ubicacion p {
+        font-size: 24px;
     }
     /*////////SECCIONES////////*/
     /*NOSOTROS*/

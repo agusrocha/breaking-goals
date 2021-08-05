@@ -318,7 +318,7 @@ ul li .active {
     background-color: #FF6833;
     text-align: center;
 }
-.divPlanes h3 {
+.divPlanes h2 {
     margin-top: 15px;
     font-size: 18px;
     text-transform: uppercase;
@@ -331,7 +331,7 @@ ul li .active {
     flex-direction: column;
     align-items: center;
 }
-.divPlanesSecundario h4 {
+.divPlanesSecundario h3 {
     color: white;
     font-size: 20px;
 }
@@ -498,14 +498,14 @@ ul li .active {
     .planes h1 {
         font-size: 30px;
     }
-    .divPlanes h3 {
+    .divPlanes h2 {
         font-size: 24px;
     }
     .divPlanesSecundario {
         margin: 35px 45px;
         padding-top: 15px;
     }
-    .divPlanesSecundario h4 {
+    .divPlanesSecundario h3 {
         font-size: 26px;
     }
     .divPlanesSecundario p {
@@ -690,14 +690,14 @@ ul li .active {
         width: 45%;
         margin: 50px 20px;
     }    
-    .divPlanes h3 {
+    .divPlanes h2 {
         font-size: 32px;
     }
     .divPlanesSecundario{
         padding-top: 18px;
         margin: 20px 10%;
     }
-    .divPlanesSecundario h4 {
+    .divPlanesSecundario h3 {
         font-size: 28px;
     }
     .divPlanesSecundario p {
